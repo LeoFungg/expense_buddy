@@ -28,5 +28,3 @@ A simple and intuitive Flutter application for tracking daily expenses, visualiz
   - Add or remove custom categories.
   - Change the default currency (USD, EUR, etc.).
   - Enable or disable budget notifications.
-
-# expense_buddy
