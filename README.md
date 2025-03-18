@@ -1,17 +1,32 @@
 # expense_buddy
 
-A new Flutter project.
+A simple and intuitive Flutter application for tracking daily expenses, visualizing spending habits, and managing budgets. This app is designed to help users stay on top of their finances with ease.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+### Core Features
+- **Expense Management**:
+  - Add, edit, and delete expenses.
+  - Assign categories (e.g., Food, Transport, Shopping).
+  - Add optional descriptions for clarity.
+  - Record the date and time of each expense.
 
-A few resources to get you started if this is your first Flutter project:
+- **Expense Insights**:
+  - Monthly summaries with total spending.
+  - Pie charts to visualize expenses by category.
+  - Breakdown of daily and weekly spending.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Search and Filter**:
+  - Search expenses by keywords in the description.
+  - Filter by categories, date ranges, or amounts.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Budget Management**:
+  - Set a monthly budget.
+  - Receive notifications when the budget is exceeded.
+
+- **Customizable Settings**:
+  - Add or remove custom categories.
+  - Change the default currency (USD, EUR, etc.).
+  - Enable or disable budget notifications.
+
 # expense_buddy
